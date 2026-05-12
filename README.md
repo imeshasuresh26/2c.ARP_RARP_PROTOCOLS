@@ -84,6 +84,8 @@ while True:
    print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT -RARP
+<img width="1600" height="893" alt="WhatsApp Image 2026-05-12 at 2 52 05 PM" src="https://github.com/user-attachments/assets/645e7dc3-c43a-4355-b7ba-0f0a759dd533" />
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
